@@ -1,0 +1,20 @@
+/.metadata/
+target/
+
+# Java
+#*.class
+
+# Eclipse
+.metadata/
+.settings/
+.classpath
+.project
+.factorypath
+
+# JavaFX / Maven
+hs_err_pid*
+replay_pid*
+
+# OS
+.DS_Store
+Thumbs.db
